@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 =begin rdoc
 
 = SixArm Ruby Gem: Rails helper to change request.format from xhr to xml for JQuery and AJAX
