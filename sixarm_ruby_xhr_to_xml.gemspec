@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
 
   s.name              = "sixarm_ruby_xhr_to_xml"
-  s.summary           = "SixArm Ruby Gem: XHR to XML request format changer for Ruby On Rails, JQuery, AJAX"
+  s.summary           = "SixArm.com » Ruby » XHR to XML request format changer for Ruby On Rails, JQuery, AJAX"
   s.version           = "1.0.4"
   s.author            = "SixArm"
   s.email             = "sixarm@sixarm.com"
