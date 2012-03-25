@@ -1,6 +1,7 @@
 # SixArm.com » Ruby » <br> Rails helper to change request.format from xhr to xml for JQuery and AJAX
 
-* Docs: <http://sixarm.com/sixarm_ruby_xhr_to_xml/doc>
+* Doc: <http://sixarm.com/sixarm_ruby_xhr_to_xml/doc>
+* Gem: <http://rubygems.org/gems/sixarm_ruby_xhr_to_xml>
 * Repo: <http://github.com/sixarm/sixarm_ruby_xhr_to_xml>
 * Email: Joel Parker Henderson, <joel@sixarm.com>
 
