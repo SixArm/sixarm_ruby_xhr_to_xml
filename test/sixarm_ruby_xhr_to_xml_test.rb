@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-require 'minitest/autorun'
-require 'simplecov'
+require "minitest/autorun"
+require "simplecov"
 SimpleCov.start
-require 'sixarm_ruby_xhr_to_xml'
+require "sixarm_ruby_xhr_to_xml"
 
 class Testing < Test::Unit::TestCase
 
