@@ -20,12 +20,7 @@ Gem::Specification.new do |s|
   s.has_rdoc          = true
 
   top_files = [
-    ".gemtest",
-    "CHANGES.md",
-    "LICENSE.md",
     "Rakefile",
-    "README.md",
-    "VERSION",
     "lib/sixarm_ruby_xhr_to_xml.rb",
   ]
 
