@@ -4,7 +4,7 @@ require "simplecov"
 SimpleCov.start
 require "sixarm_ruby_xhr_to_xml"
 
-class Testing < Test::Unit::TestCase
+class Testing < Minitest::Test
 
  include XHRToXML
 

@@ -1,0 +1,1 @@
+aeb714bf3fabf09769e14559b5ccb09ba805dff6ef62d2baa61df43913ac13c614d44343bf7df46f0698b2f7a80a21aebe3143e2aa02e6093358fd9ddaaa3d7c  sixarm_ruby_xhr_to_xml-1.0.7.gem
